@@ -28,11 +28,16 @@
 
 ---
 
-## 📂 **Featured Projects**
+## 📂 **Expertise**
 
 ### [🌟 Portfolio Website](https://yourportfolio.com)
-- **Tech Stack:** HTML5, CSS3, JavaScript, React
-- A sleek, responsive website showcasing my projects, skills, and achievements.
+- Programming Languages
+- HTML/CSS/C++/Python
+- Digital Marketing
+- Web Development
+- Shopify Store Developer
+- App Development
+
 
 ### [📡 API Manager](https://github.com/umermoazzam/api-manager)
 - **Tech Stack:** Node.js, Express.js, MongoDB
