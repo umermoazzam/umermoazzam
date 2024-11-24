@@ -1,7 +1,6 @@
-
 <h1 align="center">I'm <span style="color:#6c63ff;">Umer Moazzam</span></h1>
 <h3 align="center">Web Developer | Responsive Design | Full Stack Development</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcoding-gif&psig=AOvVaw23gFzo329heCgoFWyw5S-a&ust=1732546580331000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODviKSd9YkDFQAAAAAdAAAAABAJ">
+
 ---
 
 <!-- Introduction -->
@@ -38,13 +37,12 @@
 ### [📡 Experience](https://github.com/umermoazzam/api-manager)
 - Web Developer Faisalabad - Pakistan 2022 - 2024: Full stack Web Developer using HTML/CSS/C++.
 - Content Writing Remote Job - International 2020 - 2022: Content writing for blog websites from Fiverr, Upwork, and WhatsApp channel. Fulfilled tasks of clients from UK, USA, and Malaysia.
-- Digital Marketing Faisalabad - Pakistan 2021 - 2022: 2 years hands on experience in digital marketing with digital sea company Faisalabad.
-
-
+- Digital Marketing Faisalabad - Pakistan 2021 - 2022: 2 years hands on experience in digital marketing with digital sea company Faisalabad.
 
 ### [🎨 Education](https://github.com/umermoazzam/design-to-code)
 - National Textile University, Faisalabad: Bachelor of Computer Science 2022-2026
 - Kips College: Intermediate in Computer Science 2019-2021 SKILLS
+
 ---
 
 ## 📈 **GitHub Stats**
