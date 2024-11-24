@@ -29,24 +29,22 @@
 ---
 
 ## 📂 **Expertise**
-
-### [🌟 Portfolio Website](https://yourportfolio.com)
 - Programming Languages
 - HTML/CSS/C++/Python
 - Digital Marketing
 - Web Development
 - Shopify Store Developer
-- App Development
+
+### [📡 Experience](https://github.com/umermoazzam/api-manager)
+- Web Developer Faisalabad - Pakistan 2022 - 2024: Full stack Web Developer using HTML/CSS/C++.
+- Content Writing Remote Job - International 2020 - 2022: Content writing for blog websites from Fiverr, Upwork, and WhatsApp channel. Fulfilled tasks of clients from UK, USA, and Malaysia.
+- Digital Marketing Faisalabad - Pakistan 2021 - 2022: 2 years hands on experience in digital marketing with digital sea company Faisalabad.
 
 
-### [📡 API Manager](https://github.com/umermoazzam/api-manager)
-- **Tech Stack:** Node.js, Express.js, MongoDB
-- A tool for managing and testing RESTful APIs, featuring CRUD operations and real-time analytics.
 
-### [🎨 Design to Code](https://github.com/umermoazzam/design-to-code)
-- **Tech Stack:** HTML5, CSS3, Bootstrap
-- A curated collection of beautiful web designs converted into responsive, production-ready code.
-
+### [🎨 Education](https://github.com/umermoazzam/design-to-code)
+- National Textile University, Faisalabad: Bachelor of Computer Science 2022-2026
+- Kips College: Intermediate in Computer Science 2019-2021 SKILLS
 ---
 
 ## 📈 **GitHub Stats**
