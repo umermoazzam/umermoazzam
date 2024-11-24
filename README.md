@@ -3,7 +3,7 @@
   <img src="https://your-banner-link.com/banner.png" alt="John Doe | Full Stack Web Developer" width="100%">
 </div>
 
-# 👨‍💻 John Doe
+# 👨‍💻 Umer Moazzam
 **Full Stack Web Developer | Open Source Enthusiast**
 
 Hi! I'm John, a passionate web developer with a focus on building scalable, modern, and responsive web applications. I enjoy collaborating on open-source projects and staying ahead of the curve in tech innovation.
