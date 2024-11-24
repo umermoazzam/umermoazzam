@@ -1,7 +1,4 @@
-<!-- Banner Section -->
-<div align="center">
-  <img src="https://your-banner-link.com/banner.png" alt="Umer Moazzam | Web Developer" width="100%" />
-</div>
+
 
 <!-- Name and Title -->
 <h1 align="center">I'm <span style="color:#6c63ff;">Umer Moazzam</span></h1>
