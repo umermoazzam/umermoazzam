@@ -4,7 +4,7 @@
 </div>
 
 <!-- Name and Title -->
-<h1 align="center">Hi there! 👋 I'm <span style="color:#6c63ff;">Umer Moazzam</span></h1>
+<h1 align="center">I'm <span style="color:#6c63ff;">Umer Moazzam</span></h1>
 <h3 align="center">Web Developer | Open Source Enthusiast | Tech Innovator</h3>
 
 ---
