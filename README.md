@@ -22,15 +22,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS3 logo" />
   
+  <div align="center">
+  <!-- Digital Marketing -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Google_Analytics_Logo.svg" height="40" alt="Google Analytics logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Google_AdWords_logo.svg" height="40" alt="Google Ads logo" />
+  
   <!-- Web Development -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="Bootstrap logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js logo" />
   
-  <!-- Digital Marketing -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Google_Analytics_Logo.svg" height="40" alt="Google Analytics logo" />
-  
-  <!-- E-Commerce Development -->
+  <!-- Shopify Store Developer -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original-wordmark.svg" height="40" alt="Shopify logo" />
 </div>
 
