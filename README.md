@@ -11,7 +11,7 @@
 
 <!-- Introduction -->
 <p align="center">
-  I'm a passionate Web Developer with a knack for crafting sleek, scalable, and user-friendly web applications. I enjoy solving problems, exploring new technologies, and contributing to the developer community.
+  I'm Umer, a seasoned web developer with a passion for crafting innovative digital solutions.
 </p>
 
 ---
