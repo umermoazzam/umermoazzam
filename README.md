@@ -1,7 +1,7 @@
-<!-- Name and Title -->
+![image](https://github.com/user-attachments/assets/485b6b91-71e6-49cf-bca6-475ee33db079)<!-- Name and Title -->
 <h1 align="center">I'm <span style="color:#6c63ff;">Umer Moazzam</span></h1>
 <h3 align="center">Web Developer | Responsive Design | Full Stack Development</h3>
-
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcoding-gif&psig=AOvVaw23gFzo329heCgoFWyw5S-a&ust=1732546580331000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODviKSd9YkDFQAAAAAdAAAAABAJ">
 ---
 
 <!-- Introduction -->
