@@ -5,7 +5,7 @@
 
 <!-- Name and Title -->
 <h1 align="center">I'm <span style="color:#6c63ff;">Umer Moazzam</span></h1>
-<h3 align="center">Web Developer | Responsive design | Full Stack Development</h3>
+<h3 align="center">Web Developer | Responsive Design | Full Stack Development</h3>
 
 ---
 
@@ -19,10 +19,22 @@
 ## 🚀 **Skills & Technologies**
 
 <div align="center">
-  <li><strong>Programming Languages:</strong> C++, Python, HTML, CSS</li>
-        <li><strong>Web Development:</strong> Responsive Design, Front-End Development, Back-End Basics</li>
-        <li><strong>Digital Marketing:</strong> SEO, Content Strategy, Analytics</li>
-        <li><strong>E-Commerce Development:</strong> Shopify Store Setup, Customization, App Integration</li>
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS3 logo" />
+  
+  <!-- Web Development -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="Bootstrap logo" />
+  
+  <!-- Digital Marketing -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Google_Analytics_Logo.svg" height="40" alt="Google Analytics logo" />
+  
+  <!-- E-Commerce Development -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original-wordmark.svg" height="40" alt="Shopify logo" />
 </div>
 
 ---
