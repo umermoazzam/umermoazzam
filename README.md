@@ -1,4 +1,4 @@
-<h1 align="center">I'm <span style="color:#6c63ff;">Umer Moazzam</span></h1>
+<h1 align="center">I'm <span style="color:#6c63ff;">Umer M.</span></h1>
 <h3 align="center">Web Developer | Responsive Design | Full Stack Development</h3>
 
 ---
