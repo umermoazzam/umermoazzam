@@ -1,10 +1,10 @@
 <h1 align="center">I'm <span style="color:#6c63ff;">Umer M.</span></h1>
-<h3 align="center">Full-Stack Developer | Modern Web Applications | Workflow Automation</h3>
+<h3 align="center">CS | MERN Stack Developer | Responsive Sites</h3>
 
 ---
 
 <p align="center">
-  This is Umer M! I enjoy building modern web applications that are not only visually clean but also structured for real-world scalability. My primary focus revolves around React, Next.js, and backend engineering, while integrating n8n workflows to automate repetitive operations and optimize overall system flow. I prefer developing applications with a balance of performance, maintainability, and user experience, ensuring both frontend interactions and backend architecture work seamlessly together.
+This is Umer M! I'm a Full-Stack Developer specializing in the intersection of technical agility and process autonomy. Whereas my core competency lies in the React and Next.js ecosystem, I integrate sophisticated n8n workflows to eliminate manual overhead and optimize backend logic. I approach every project with a focus on systemic efficiency, utilizing my BS in Computer Science from National Textile University, Faisalabad, as a foundation for structured development. My stack extends into Node.js, MongoDB, Clerk, and Inngest, enabling me to deliver scalable web platforms with seamless client and server synergy and optimized data architecture. I develop with the intent to scale, ensuring the underlying infrastructure is as robust as the UI is intuitive. 🎓
 </p>
 
 ---
