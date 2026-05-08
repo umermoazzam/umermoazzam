@@ -34,8 +34,6 @@
 - Workflow Automation with n8n
 - Responsive UI Development
 - System Optimization
-- Shopify Store Development
-- Digital Marketing
 
 ---
 
